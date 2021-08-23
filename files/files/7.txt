@@ -1,0 +1,1 @@
+As you read the book, if you have questions, send an e-mail to deitel@deitel.com; we’ll respond promptly. For updates on this book and its supporting C and C++ software, and for the latest news on all Deitel publications and services, visit www.deitel.com.
